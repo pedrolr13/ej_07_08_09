@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+       /* String original = "HolaMundo";
+        String reversed = "";
+
+        for (int z = 0; z < original.length(); z++) {
+            reversed = original.charAt(z) + reversed;
+        }
+
+        System.out.println(reversed);/*
