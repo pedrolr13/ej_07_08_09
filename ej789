@@ -98,8 +98,7 @@ public class ejercicios789 {
             System.out.println(vector);
 
             /*
-                Indica cuál es el problema de utilizar un Vector con la capacidad por defecto si tuviésemos
-                1000 elementos para ser añadidos al mismo.
+                Ejercicio_05
             */
 
             System.out.println("\n-------------------- \n Respuesta\n--------------------");
@@ -110,7 +109,7 @@ public class ejercicios789 {
     }
 
     /*
-        Ejercicio_05
+        Ejercicio_06
     */
 
     public static class ArrayString {
@@ -144,7 +143,7 @@ public class ejercicios789 {
     }
 
     /*
-        Ejercicio_06
+        Ejercicio_07
     */
 
     public static class ArrayInt {
@@ -171,7 +170,7 @@ public class ejercicios789 {
     }
 
     /*
-       Ejercicio_07
+       Ejercicio_08
     */
 
     public static class DividePorCero {
@@ -200,7 +199,7 @@ public class ejercicios789 {
         }
 
     /*
-      Ejercicio_08
+      Ejercicio_09
     */
 
         public static class CopiarFicheros {
