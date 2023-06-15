@@ -122,7 +122,7 @@ public class ejercicios789 {
             lista.add("Recaredo");
             lista.add("Ataulfo");
             lista.add("Leovigildo");
-            lista.add("Teodeoredo");
+            lista.add("Teodoredo");
 
             LinkedList<String> linkedlist = new LinkedList<String>();
 
